@@ -1,5 +1,5 @@
 # Download-Video-Stream
-`bash` script that downloads .ts video and audio stream files from two .m3u8 files and combines them into a single video 
+`bash` script that downloads .ts video and audio stream files from two .m3u8 files and combines them into a single .mp4
 
 # Usage: 
 
